@@ -15,7 +15,12 @@ Skills:    JavaScript | React | NodeJs | MongoDB | ExpressJs | Tailwind CSS | Bo
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anamul101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-anamul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/gstar.anamul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gstar.anamul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://anamul.me/)  
+<a href="https://github.com/jstrieb/github-stats">
 
+![](https://github.com/ashutosh1919/ashutosh1919/blob/master/generated/overview.svg)
+![](https://github.com/ashutosh1919/ashutosh1919/blob/master/generated/languages.svg)
+
+</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamul101)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anamul101&show_icons=true&count_private=true)  
