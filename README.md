@@ -1,6 +1,7 @@
 ![I am a Web Development](https://media.licdn.com/dms/image/D5616AQH7on138iRlgg/profile-displaybackgroundimage-shrink_350_1400/0/1670505468281?e=1678924800&v=beta&t=AV8UZarHk8OMqOjeeNUsuS0eTtWrLHNIS6V2YoQo1GM)
 
 <h1>Hi Traveller, I'm Mohammad Anamul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+I'm a Front-End Developer, passionate about making user-friendly web applications, with the capability to grasp new concepts and cope up with the speedily changing technologies.
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
