@@ -20,8 +20,8 @@ I'm a Full-Stack Developer, passionate about making user-friendly web applicatio
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamul101)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anamul101&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anamul101&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?username=anamul101)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=anamul101)  
 
-![Profile views](https://gpvc.arturio.dev/anamul101)  
+![Profile views](https://gpvc.arturio.dev/anamul101)    
