@@ -1,5 +1,7 @@
 ![I am a Web Development](https://media.licdn.com/dms/image/D5616AQH7on138iRlgg/profile-displaybackgroundimage-shrink_350_1400/0/1670505468281?e=1678924800&v=beta&t=AV8UZarHk8OMqOjeeNUsuS0eTtWrLHNIS6V2YoQo1GM)
 
+![Profile views](https://gpvc.arturio.dev/anamul101)    
+
 <h1>Hi Traveller, I'm Mohammad Anamul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 I'm a Full-Stack Developer, passionate about making user-friendly web applications, with the capability to grasp new concepts and cope up with the speedily changing technologies.
 
@@ -24,4 +26,3 @@ I'm a Full-Stack Developer, passionate about making user-friendly web applicatio
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=anamul101)  
 
-![Profile views](https://gpvc.arturio.dev/anamul101)    
