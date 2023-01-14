@@ -2,8 +2,6 @@
 
 <h1>Hi Traveller, I'm Mohammad Anamul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
-I’m a Frontend Web Developer. I have been learning web development for a year & still learning. As Full Stack developer, I’m able to design & develop a full-stack website. I aim to be a senior Frontend Web Developer in the next 2 years & also try to update me with new technologies
-
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3>Skills: JavaScript | React | NodeJs | MongoDB | ExpressJs | Tailwind CSS | Bootstrap | HTML5 | CSS3</h3>
